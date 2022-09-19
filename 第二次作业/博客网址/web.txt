@@ -1,0 +1,5 @@
+Ubuntu下用gcc生成静态库和动态库以及对应应用--https://blog.csdn.net/zhoushuaiyxlmwan/article/details/126858711
+
+Gcc工具在源程序文件到可执行文件的应用--https://blog.csdn.net/zhoushuaiyxlmwan/article/details/126898944
+
+Linux下运用opencv的简单图像编程--https://blog.csdn.net/zhoushuaiyxlmwan/article/details/126913282
